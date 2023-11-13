@@ -8,6 +8,7 @@ module.exports = {
       colors: {
         'uh-red': '#eb3b5c',
         'uh-white': '#ffffff',
+        'rock-wrangler-suble': '#d4bbbe',
       },
     },
   },
